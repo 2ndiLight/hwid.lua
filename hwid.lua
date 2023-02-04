@@ -1,5 +1,5 @@
 return {
-  users = { 
+  hwids = { 
 "2888797244",
  },
 }
